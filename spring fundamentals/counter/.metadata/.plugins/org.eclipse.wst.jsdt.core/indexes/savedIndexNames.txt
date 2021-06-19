@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\BisanCo\Desktop\java\springAssi\counter\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1847057928.index
+3916787668.index
+1951408381.index
+3478250273.index
+1004892902.index
+1576118443.index
+4275178400.index

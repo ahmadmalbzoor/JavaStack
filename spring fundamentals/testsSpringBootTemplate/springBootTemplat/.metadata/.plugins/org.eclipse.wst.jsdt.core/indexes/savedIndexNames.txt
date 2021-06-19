@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\BisanCo\Desktop\java\springAssi\testsSpringBootTemplate\springBootTemplat\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1817806227.index
+3721380334.index
+664015934.index
+2358387711.index
+2740393084.index
+3818152019.index

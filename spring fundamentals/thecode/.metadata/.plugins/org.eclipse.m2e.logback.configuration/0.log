@@ -1,0 +1,250 @@
+2021-06-16 23:17:08,816 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-16 23:18:50,985 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.thecodes:thecodespring:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\pom.xml.
+2021-06-16 23:18:53,159 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thecodespring/src/main/java
+2021-06-16 23:18:53,160 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thecodespring/src/main/resources
+2021-06-16 23:18:53,173 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thecodespring/src/main/resources
+2021-06-16 23:18:53,188 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thecodespring/src/test/java
+2021-06-16 23:18:58,764 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2021-06-16 23:18:58,777 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-16 23:18:59,843 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.thecodes:thecodespring:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\pom.xml.
+2021-06-16 23:19:01,424 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thecodespring/src/main/java
+2021-06-16 23:19:01,425 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thecodespring/src/main/resources
+2021-06-16 23:19:01,425 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thecodespring/src/main/resources
+2021-06-16 23:19:01,427 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thecodespring/src/test/java
+2021-06-16 23:19:02,736 [Worker-0: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for thecodespring
+2021-06-16 23:19:02,741 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-06-16 23:19:04,067 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:19:04,067 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:19:04,072 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:19:04,091 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:19:04,096 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:19:04,096 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:19:04,097 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:19:04,098 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of thecodespring
+2021-06-16 23:19:04,099 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for thecodespring
+2021-06-16 23:19:04,108 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:19:04,108 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:20:46,144 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:20:46,144 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:20:46,146 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:20:46,147 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:20:46,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:20:46,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:20:46,154 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:21:01,955 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:21:01,955 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:21:01,955 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:21:01,957 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:21:01,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:21:01,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:21:01,962 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:21:17,198 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:21:17,198 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:21:17,198 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:21:17,199 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:21:17,204 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:21:17,204 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:21:17,204 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:22:57,186 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:22:57,186 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:22:57,186 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:22:57,187 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:22:57,191 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:22:57,193 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:22:57,193 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:23:41,870 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:23:41,871 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:23:41,875 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:23:41,912 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:23:41,919 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:23:41,919 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:23:41,919 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:23:42,989 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:23:42,989 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:23:42,990 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:23:42,990 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:23:42,993 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:23:42,993 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:23:42,993 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:23:53,581 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @421499ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-06-16 23:23:53,770 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.37.v20210219; built: 2021-02-23T06:49:41.320Z; git: 27afab2bd37780d179836e313e0fe11bc4fa0ce9; jvm 15.0.2+7-27
+2021-06-16 23:23:53,794 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-06-16 23:23:53,794 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-06-16 23:23:53,796 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-06-16 23:23:53,841 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6df9b2c8{/help,null,AVAILABLE}
+2021-06-16 23:23:53,865 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3c621790{HTTP/1.1, (http/1.1)}{127.0.0.1:65068}
+2021-06-16 23:23:53,865 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @421783ms
+2021-06-16 23:23:53,866 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-06-16 23:27:12,294 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.thecodes:thecodespring:0.0.1-SNAPSHOT @ C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\pom.xml.
+2021-06-16 23:27:14,574 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:27:14,575 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:27:14,579 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:27:14,618 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:27:14,626 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:27:14,626 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:27:14,626 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:27:14,627 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of thecodespring
+2021-06-16 23:27:14,627 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for thecodespring
+2021-06-16 23:27:14,634 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:27:14,634 [Worker-8: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:27:15,796 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:27:15,797 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:27:15,800 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:27:15,809 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:27:15,812 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:27:15,813 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:27:15,813 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:28:37,967 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:28:37,968 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:28:37,971 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:28:38,019 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:28:38,024 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:28:38,024 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:28:38,024 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:31:52,177 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:31:52,178 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:31:52,180 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:31:52,181 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:31:52,189 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:31:52,189 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:31:52,191 [Worker-0: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:33:06,663 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:33:06,664 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:33:06,664 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:33:06,665 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:33:06,667 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:33:06,667 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:33:06,668 [Worker-10: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:50:21,184 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:50:21,184 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:50:21,187 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:50:21,268 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:50:21,272 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:50:21,272 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:50:21,272 [Worker-20: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-16 23:52:14,657 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:52:14,657 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:52:14,659 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-16 23:52:14,688 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-16 23:52:14,692 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-16 23:52:14,693 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-16 23:52:14,693 [Worker-12: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:06:00,403 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:06:00,404 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:06:00,405 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:06:00,431 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:06:00,435 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:06:00,436 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:06:00,436 [Worker-24: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:08:25,463 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:08:25,464 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:08:25,465 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:08:25,491 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:08:25,495 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:08:25,495 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:08:25,495 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:10:55,518 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:10:55,518 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:10:55,519 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:10:55,519 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:10:55,521 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:10:55,521 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:10:55,521 [Worker-31: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:12:08,113 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:12:08,114 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:12:08,115 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:12:08,142 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:12:08,146 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:12:08,146 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:12:08,147 [Worker-27: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:15:31,974 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:15:31,975 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:15:31,977 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:15:32,009 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:15:32,013 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:15:32,013 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:15:32,014 [Worker-21: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:18:15,302 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:18:15,303 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:18:15,305 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:18:15,343 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:18:15,348 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:18:15,348 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:18:15,349 [Worker-38: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:42:38,756 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:42:38,757 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:42:38,758 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:42:38,800 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:42:38,805 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:42:38,805 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:42:38,806 [Worker-43: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:50:39,866 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:50:39,866 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:50:39,868 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:50:39,905 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:50:39,909 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:50:39,909 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:50:39,909 [Worker-45: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:52:17,635 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:52:17,635 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:52:17,636 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:52:17,659 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:52:17,663 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:52:17,663 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:52:17,664 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:53:31,757 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:53:31,757 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:53:31,759 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:53:31,788 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:53:31,792 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:53:31,792 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:53:31,793 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:54:55,037 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:54:55,038 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:54:55,038 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:54:55,038 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:54:55,040 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:54:55,040 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:54:55,040 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:56:39,853 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:56:39,853 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:56:39,856 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:56:39,890 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:56:39,901 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:56:39,902 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:56:39,903 [Worker-55: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 00:57:29,886 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:57:29,886 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:57:29,887 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-17 00:57:29,923 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 00:57:29,927 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 00:57:29,927 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 00:57:29,927 [Worker-47: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 01:00:34,052 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:00:34,052 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:00:34,053 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:00:34,053 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:00:34,055 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:00:34,055 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:00:34,056 [Worker-50: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 01:01:37,961 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:01:37,961 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:01:37,961 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:01:37,962 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:01:37,964 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:01:37,964 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:01:37,965 [Worker-57: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 01:02:22,810 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:02:22,811 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:02:22,811 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:02:22,811 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:02:22,813 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:02:22,813 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:02:22,813 [Worker-39: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources
+2021-06-17 01:02:54,060 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:02:54,060 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:02:54,060 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:02:54,061 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-17 01:02:54,064 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-17 01:02:54,064 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-17 01:02:54,064 [Worker-58: Launching thecodespring - ThecodespringApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BisanCo\Desktop\java\springAssi\thecode\thecodespring\src\test\resources

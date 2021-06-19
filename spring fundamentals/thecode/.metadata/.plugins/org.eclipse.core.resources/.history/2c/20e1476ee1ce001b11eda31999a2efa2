@@ -1,0 +1,12 @@
+package com.thecodes;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+@Controller
+public class codechecker {
+@RequestMapping("")
+public String checkpage()
+{
+	return "index.html";
+}
+}

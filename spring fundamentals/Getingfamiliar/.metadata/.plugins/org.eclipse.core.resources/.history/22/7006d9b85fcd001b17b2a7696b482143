@@ -1,0 +1,20 @@
+package com.getingfamiliar;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+
+public class DojoController {
+@RequestMapping("{trak}")
+public String dojo(@PathVariable("trak") String track)
+{
+	return " The "+track+" is awesome";
+}
+@RequestMapping("{trak-track1}")
+public String burbank(@PathVariable("trak") String track, @PathVariable("trak1") String track1)
+{
+	return track+track1+"is located in Southern California";
+}
+}

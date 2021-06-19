@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\BisanCo\Desktop\java\springAssi\testsSpringBootTemplate\springBootTemplat\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3685625472.index
+\firsttest\src\main\java
+C:\Users\BisanCo\Desktop\java\springAssi\testsSpringBootTemplate\springBootTemplat\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\832815200.index
+\firsttest\src\main\java
